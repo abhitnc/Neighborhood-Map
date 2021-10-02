@@ -3,7 +3,7 @@
 ## About The Project
 * We will develop a single-page application using React featuring a map of your neighborhood or a neighborhood we would like to visit. We will then add additional functionality to this application, including: map markers to identify popular locations or places you’d like to visit, a search function to easily discover these locations, and a list view to support simple browsing of all locations. We will then research and implement third-party APIs that provide additional information about each of these locations (such as Foursquare API).
 
-## Instructions to Run the App
+## Instructions to Run the App 2
 
 1. Clone this repository.
 2. Go to the Project Base Directory then run `npm install` to install all dependencies
